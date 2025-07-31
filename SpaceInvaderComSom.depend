@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1751661585 source:c:\users\cooler master\documents\spaceinvadersm3\spaceinvadercomsom\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<fstream>
+	<time.h>
+	<chrono>
+	<algorithm>
+	<iomanip>
+	<mmsystem.h>
+
+1751667354 source:c:\users\7841540\documents\spaceinvadersm3\spaceinvadercomsom\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<fstream>
+	<time.h>
+	<chrono>
+	<algorithm>
+	<iomanip>
+	<mmsystem.h>
+
+1753921131 source:c:\users\joão paulo\documents\spaceinvadercomsom\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<fstream>
+	<time.h>
+	<chrono>
+	<algorithm>
+	<iomanip>
+	<mmsystem.h>
+
